@@ -1,0 +1,32 @@
+Class 				Abstarct 		Interface 
+
+A(){}				A(){}			No 
+
+int a;				int a;			int a=100: init mandatory 
+
+
+Obj ? 				no 			No 
+
+
+muiltiple not 			not 			yes 
+
+no abstacrt 			both abst + non 	Pure abstact
+
+0% security 			0-100% 			100%
+
+
+
+Difference btwn check and uncheked 
+
+
+
+10 checked exception names 
+		Filenotfoiuf
+		IO exception 
+		SQl Exception 
+
+10 unchecked exception names 
+	uncheck 10 : 
+			when it will accour 
+
+
